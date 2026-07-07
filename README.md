@@ -86,6 +86,10 @@
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Al-ameenkc&hide_border=true&background=111111&ring=ccff00&fire=ccff00&currStreakLabel=ffffff&sideLabels=a0a0a0&dates=6b6b6b&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Al-ameenkc&bg_color=111111&color=ccff00&line=ccff00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
