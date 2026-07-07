@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="248" viewBox="0 0 1000 248" role="img" aria-label="Kachalla developer profile code snippet">
+  <rect width="1000" height="248" rx="8" fill="#111111" stroke="#1f1f1f"/>
+  <text font-family="ui-monospace, 'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="13">
+    <tspan x="24" y="36" fill="#ccff00">const</tspan><tspan fill="#ffffff"> kachalla</tspan><tspan fill="#a0a0a0">:</tspan><tspan fill="#ccff00"> Developer</tspan><tspan fill="#a0a0a0"> = {</tspan>
+    <tspan x="24" y="60" fill="#ffffff">  name</tspan><tspan fill="#a0a0a0">:</tspan><tspan fill="#ccff00"> "Kachalla"</tspan><tspan fill="#a0a0a0">,</tspan>
+    <tspan x="24" y="84" fill="#ffffff">  role</tspan><tspan fill="#a0a0a0">:</tspan><tspan fill="#ccff00"> "Software Engineer &amp; Frontend Engineer"</tspan><tspan fill="#a0a0a0">,</tspan>
+    <tspan x="24" y="108" fill="#ffffff">  location</tspan><tspan fill="#a0a0a0">:</tspan><tspan fill="#ccff00"> "Nigeria &#x1F1F3;&#x1F1EC;"</tspan><tspan fill="#a0a0a0">,</tspan>
+    <tspan x="24" y="132" fill="#ffffff">  education</tspan><tspan fill="#a0a0a0">:</tspan><tspan fill="#ccff00"> "First Class Software Engineering Graduate &#x2014; 4.81/5.0 GPA"</tspan><tspan fill="#a0a0a0">,</tspan>
+    <tspan x="24" y="156" fill="#ffffff">  currentFocus</tspan><tspan fill="#a0a0a0">:</tspan><tspan fill="#ccff00"> "Building Autonomous AI Startup Lab &amp; AI-powered products"</tspan><tspan fill="#a0a0a0">,</tspan>
+    <tspan x="24" y="180" fill="#ffffff">  funFact</tspan><tspan fill="#a0a0a0">:</tspan><tspan fill="#ccff00"> "I combine product design taste with engineering discipline so software feels as good as it works"</tspan><tspan fill="#a0a0a0">,</tspan>
+    <tspan x="24" y="204" fill="#a0a0a0">};</tspan>
+  </text>
+</svg>
