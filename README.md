@@ -95,14 +95,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Al-ameenkc/Al-ameenkc/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's build something great together.
